@@ -1,0 +1,25 @@
+{
+  "unversionedId": "one/markdown-features",
+  "id": "one/markdown-features",
+  "title": "markdown-features",
+  "description": "index",
+  "source": "@site/java/one/markdown-features.mdx",
+  "sourceDirName": "one",
+  "slug": "/one/markdown-features",
+  "permalink": "/java/one/markdown-features",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/create-a-blog-post"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/deploy-your-site"
+  }
+}

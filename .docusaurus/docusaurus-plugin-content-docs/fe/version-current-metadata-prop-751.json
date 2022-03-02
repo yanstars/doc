@@ -1,0 +1,151 @@
+{
+  "pluginId": "fe",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "index",
+        "href": "/fe/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "vue",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Vue",
+            "href": "/fe/vue/Vue",
+            "docId": "vue/Vue"
+          },
+          {
+            "type": "link",
+            "label": "Vnode && Diff",
+            "href": "/fe/vue/vnodeanddiff",
+            "docId": "vue/vnodeanddiff"
+          },
+          {
+            "type": "link",
+            "label": "Vue3",
+            "href": "/fe/vue/Vue3",
+            "docId": "vue/Vue3"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "operating system",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "index",
+            "href": "/fe/os/osindex",
+            "docId": "os/osindex"
+          },
+          {
+            "type": "link",
+            "label": "Macos",
+            "href": "/fe/os/Macos",
+            "docId": "os/Macos"
+          },
+          {
+            "type": "link",
+            "label": "Centos",
+            "href": "/fe/os/Centos",
+            "docId": "os/Centos"
+          },
+          {
+            "type": "link",
+            "label": "Ubuntu",
+            "href": "/fe/os/Ubuntu",
+            "docId": "os/Ubuntu"
+          },
+          {
+            "type": "link",
+            "label": "Deepin",
+            "href": "/fe/os/Deepin",
+            "docId": "os/Deepin"
+          },
+          {
+            "type": "link",
+            "label": "Windows",
+            "href": "/fe/os/Windows",
+            "docId": "os/Windows"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "index": {
+      "id": "index",
+      "title": "index",
+      "description": "index",
+      "sidebar": "tutorialSidebar"
+    },
+    "os/Centos": {
+      "id": "os/Centos",
+      "title": "Centos",
+      "description": "查询端口占用",
+      "sidebar": "tutorialSidebar"
+    },
+    "os/Deepin": {
+      "id": "os/Deepin",
+      "title": "Deepin",
+      "description": "Bug 2020-07-09",
+      "sidebar": "tutorialSidebar"
+    },
+    "os/Macos": {
+      "id": "os/Macos",
+      "title": "Macos",
+      "description": "mac 环境快速搭建",
+      "sidebar": "tutorialSidebar"
+    },
+    "os/osindex": {
+      "id": "os/osindex",
+      "title": "index",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "os/Ubuntu": {
+      "id": "os/Ubuntu",
+      "title": "Ubuntu",
+      "description": "Version",
+      "sidebar": "tutorialSidebar"
+    },
+    "os/Windows": {
+      "id": "os/Windows",
+      "title": "Windows",
+      "description": "常用软件",
+      "sidebar": "tutorialSidebar"
+    },
+    "vue/vnodeanddiff": {
+      "id": "vue/vnodeanddiff",
+      "title": "Vnode && Diff",
+      "description": "updateChildren && patchVnode",
+      "sidebar": "tutorialSidebar"
+    },
+    "vue/Vue": {
+      "id": "vue/Vue",
+      "title": "Vue",
+      "description": "核心渲染",
+      "sidebar": "tutorialSidebar"
+    },
+    "vue/Vue3": {
+      "id": "vue/Vue3",
+      "title": "Vue3",
+      "description": "新特性",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

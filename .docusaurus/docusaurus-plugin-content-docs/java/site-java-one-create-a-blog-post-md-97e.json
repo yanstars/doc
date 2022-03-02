@@ -1,0 +1,25 @@
+{
+  "unversionedId": "one/create-a-blog-post",
+  "id": "one/create-a-blog-post",
+  "title": "Congratulations!",
+  "description": "What's next?",
+  "source": "@site/java/one/create-a-blog-post.md",
+  "sourceDirName": "one",
+  "slug": "/one/create-a-blog-post",
+  "permalink": "/java/one/create-a-blog-post",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/create-a-document"
+  },
+  "next": {
+    "title": "markdown-features",
+    "permalink": "/java/one/markdown-features"
+  }
+}

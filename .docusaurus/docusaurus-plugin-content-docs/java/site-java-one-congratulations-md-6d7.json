@@ -1,0 +1,25 @@
+{
+  "unversionedId": "one/congratulations",
+  "id": "one/congratulations",
+  "title": "Congratulations!",
+  "description": "What's next?",
+  "source": "@site/java/one/congratulations.md",
+  "sourceDirName": "one",
+  "slug": "/one/congratulations",
+  "permalink": "/java/one/congratulations",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/deploy-your-site"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/java/two/manage-docs-versions"
+  }
+}

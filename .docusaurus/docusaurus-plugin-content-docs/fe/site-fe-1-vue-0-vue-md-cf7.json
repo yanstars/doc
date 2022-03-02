@@ -1,0 +1,29 @@
+{
+  "unversionedId": "vue/Vue",
+  "id": "vue/Vue",
+  "title": "Vue",
+  "description": "核心渲染",
+  "source": "@site/fe/1-vue/0-vue.md",
+  "sourceDirName": "1-vue",
+  "slug": "/vue/Vue",
+  "permalink": "/fe/vue/Vue",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Vue",
+    "id": "Vue"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/fe/"
+  },
+  "next": {
+    "title": "Vnode && Diff",
+    "permalink": "/fe/vue/vnodeanddiff"
+  }
+}

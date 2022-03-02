@@ -1,0 +1,29 @@
+{
+  "unversionedId": "vue/Vue3",
+  "id": "vue/Vue3",
+  "title": "Vue3",
+  "description": "新特性",
+  "source": "@site/fe/1-vue/2-vue3.md",
+  "sourceDirName": "1-vue",
+  "slug": "/vue/Vue3",
+  "permalink": "/fe/vue/Vue3",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Vue3",
+    "id": "Vue3"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vnode && Diff",
+    "permalink": "/fe/vue/vnodeanddiff"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/fe/os/osindex"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "fe": {
+      "path": "/fe",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/fe",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/fe/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "os/Centos",
+              "path": "/fe/os/Centos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "os/Deepin",
+              "path": "/fe/os/Deepin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "os/Macos",
+              "path": "/fe/os/Macos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "os/osindex",
+              "path": "/fe/os/osindex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "os/Ubuntu",
+              "path": "/fe/os/Ubuntu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "os/Windows",
+              "path": "/fe/os/Windows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vue/vnodeanddiff",
+              "path": "/fe/vue/vnodeanddiff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vue/Vue",
+              "path": "/fe/vue/Vue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vue/Vue3",
+              "path": "/fe/vue/Vue3",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    },
+    "java": {
+      "path": "/java",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/java",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/java/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "one/congratulations",
+              "path": "/java/one/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "one/create-a-blog-post",
+              "path": "/java/one/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "one/create-a-document",
+              "path": "/java/one/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "one/create-a-page",
+              "path": "/java/one/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "one/deploy-your-site",
+              "path": "/java/one/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "one/markdown-features",
+              "path": "/java/one/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "two/manage-docs-versions",
+              "path": "/java/two/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "two/translate-your-site",
+              "path": "/java/two/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

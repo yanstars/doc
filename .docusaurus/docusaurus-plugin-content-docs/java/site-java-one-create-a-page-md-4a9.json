@@ -1,0 +1,25 @@
+{
+  "unversionedId": "one/create-a-page",
+  "id": "one/create-a-page",
+  "title": "Congratulations!",
+  "description": "What's next?",
+  "source": "@site/java/one/create-a-page.md",
+  "sourceDirName": "one",
+  "slug": "/one/create-a-page",
+  "permalink": "/java/one/create-a-page",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Index",
+    "permalink": "/java/"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/create-a-document"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "os/Windows",
+  "id": "os/Windows",
+  "title": "Windows",
+  "description": "常用软件",
+  "source": "@site/fe/2-os/5-windows.md",
+  "sourceDirName": "2-os",
+  "slug": "/os/Windows",
+  "permalink": "/fe/os/Windows",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Windows",
+    "id": "Windows"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deepin",
+    "permalink": "/fe/os/Deepin"
+  }
+}

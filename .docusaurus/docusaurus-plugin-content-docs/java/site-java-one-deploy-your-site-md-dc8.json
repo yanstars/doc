@@ -1,0 +1,25 @@
+{
+  "unversionedId": "one/deploy-your-site",
+  "id": "one/deploy-your-site",
+  "title": "Congratulations!",
+  "description": "What's next?",
+  "source": "@site/java/one/deploy-your-site.md",
+  "sourceDirName": "one",
+  "slug": "/one/deploy-your-site",
+  "permalink": "/java/one/deploy-your-site",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "markdown-features",
+    "permalink": "/java/one/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/congratulations"
+  }
+}

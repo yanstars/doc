@@ -1,0 +1,29 @@
+{
+  "unversionedId": "os/Deepin",
+  "id": "os/Deepin",
+  "title": "Deepin",
+  "description": "Bug 2020-07-09",
+  "source": "@site/fe/2-os/4-deppin.md",
+  "sourceDirName": "2-os",
+  "slug": "/os/Deepin",
+  "permalink": "/fe/os/Deepin",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Deepin",
+    "id": "Deepin"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ubuntu",
+    "permalink": "/fe/os/Ubuntu"
+  },
+  "next": {
+    "title": "Windows",
+    "permalink": "/fe/os/Windows"
+  }
+}

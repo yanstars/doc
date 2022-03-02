@@ -1,0 +1,29 @@
+{
+  "unversionedId": "os/Centos",
+  "id": "os/Centos",
+  "title": "Centos",
+  "description": "查询端口占用",
+  "source": "@site/fe/2-os/2-centos.md",
+  "sourceDirName": "2-os",
+  "slug": "/os/Centos",
+  "permalink": "/fe/os/Centos",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Centos",
+    "id": "Centos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Macos",
+    "permalink": "/fe/os/Macos"
+  },
+  "next": {
+    "title": "Ubuntu",
+    "permalink": "/fe/os/Ubuntu"
+  }
+}

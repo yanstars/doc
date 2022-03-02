@@ -1,0 +1,29 @@
+{
+  "unversionedId": "os/Macos",
+  "id": "os/Macos",
+  "title": "Macos",
+  "description": "mac 环境快速搭建",
+  "source": "@site/fe/2-os/1-macos.md",
+  "sourceDirName": "2-os",
+  "slug": "/os/Macos",
+  "permalink": "/fe/os/Macos",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Macos",
+    "id": "Macos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/fe/os/osindex"
+  },
+  "next": {
+    "title": "Centos",
+    "permalink": "/fe/os/Centos"
+  }
+}

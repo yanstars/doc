@@ -1,0 +1,25 @@
+{
+  "unversionedId": "one/create-a-document",
+  "id": "one/create-a-document",
+  "title": "Congratulations!",
+  "description": "What's next?",
+  "source": "@site/java/one/create-a-document.md",
+  "sourceDirName": "one",
+  "slug": "/one/create-a-document",
+  "permalink": "/java/one/create-a-document",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/create-a-page"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/java/one/create-a-blog-post"
+  }
+}

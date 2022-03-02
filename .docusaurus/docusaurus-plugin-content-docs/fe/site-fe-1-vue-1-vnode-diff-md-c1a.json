@@ -1,0 +1,29 @@
+{
+  "unversionedId": "vue/vnodeanddiff",
+  "id": "vue/vnodeanddiff",
+  "title": "Vnode && Diff",
+  "description": "updateChildren && patchVnode",
+  "source": "@site/fe/1-vue/1-Vnode&diff.md",
+  "sourceDirName": "1-vue",
+  "slug": "/vue/vnodeanddiff",
+  "permalink": "/fe/vue/vnodeanddiff",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Vnode && Diff",
+    "id": "vnodeanddiff"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vue",
+    "permalink": "/fe/vue/Vue"
+  },
+  "next": {
+    "title": "Vue3",
+    "permalink": "/fe/vue/Vue3"
+  }
+}

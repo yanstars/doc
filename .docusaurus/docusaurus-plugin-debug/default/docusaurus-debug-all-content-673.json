@@ -1,0 +1,908 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "fe": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/fe",
+          "tagsPath": "/fe/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/yanstars/Desktop/my-website/sidebarsFe.js",
+          "contentPath": "/Users/yanstars/Desktop/my-website/fe",
+          "contentPathLocalized": "/Users/yanstars/Desktop/my-website/i18n/en/docusaurus-plugin-content-docs-fe/current",
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "index",
+              "description": "index",
+              "source": "@site/fe/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/fe/",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Vue",
+                "permalink": "/fe/vue/Vue"
+              }
+            },
+            {
+              "unversionedId": "os/Centos",
+              "id": "os/Centos",
+              "title": "Centos",
+              "description": "查询端口占用",
+              "source": "@site/fe/2-os/2-centos.md",
+              "sourceDirName": "2-os",
+              "slug": "/os/Centos",
+              "permalink": "/fe/os/Centos",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Centos",
+                "id": "Centos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Macos",
+                "permalink": "/fe/os/Macos"
+              },
+              "next": {
+                "title": "Ubuntu",
+                "permalink": "/fe/os/Ubuntu"
+              }
+            },
+            {
+              "unversionedId": "os/Deepin",
+              "id": "os/Deepin",
+              "title": "Deepin",
+              "description": "Bug 2020-07-09",
+              "source": "@site/fe/2-os/4-deppin.md",
+              "sourceDirName": "2-os",
+              "slug": "/os/Deepin",
+              "permalink": "/fe/os/Deepin",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Deepin",
+                "id": "Deepin"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ubuntu",
+                "permalink": "/fe/os/Ubuntu"
+              },
+              "next": {
+                "title": "Windows",
+                "permalink": "/fe/os/Windows"
+              }
+            },
+            {
+              "unversionedId": "os/Macos",
+              "id": "os/Macos",
+              "title": "Macos",
+              "description": "mac 环境快速搭建",
+              "source": "@site/fe/2-os/1-macos.md",
+              "sourceDirName": "2-os",
+              "slug": "/os/Macos",
+              "permalink": "/fe/os/Macos",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Macos",
+                "id": "Macos"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/fe/os/osindex"
+              },
+              "next": {
+                "title": "Centos",
+                "permalink": "/fe/os/Centos"
+              }
+            },
+            {
+              "unversionedId": "os/osindex",
+              "id": "os/osindex",
+              "title": "index",
+              "description": "",
+              "source": "@site/fe/2-os/0-index.md",
+              "sourceDirName": "2-os",
+              "slug": "/os/osindex",
+              "permalink": "/fe/os/osindex",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "title": "index",
+                "id": "osindex"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vue3",
+                "permalink": "/fe/vue/Vue3"
+              },
+              "next": {
+                "title": "Macos",
+                "permalink": "/fe/os/Macos"
+              }
+            },
+            {
+              "unversionedId": "os/Ubuntu",
+              "id": "os/Ubuntu",
+              "title": "Ubuntu",
+              "description": "Version",
+              "source": "@site/fe/2-os/3-ubuntu.md",
+              "sourceDirName": "2-os",
+              "slug": "/os/Ubuntu",
+              "permalink": "/fe/os/Ubuntu",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Ubuntu",
+                "id": "Ubuntu"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Centos",
+                "permalink": "/fe/os/Centos"
+              },
+              "next": {
+                "title": "Deepin",
+                "permalink": "/fe/os/Deepin"
+              }
+            },
+            {
+              "unversionedId": "os/Windows",
+              "id": "os/Windows",
+              "title": "Windows",
+              "description": "常用软件",
+              "source": "@site/fe/2-os/5-windows.md",
+              "sourceDirName": "2-os",
+              "slug": "/os/Windows",
+              "permalink": "/fe/os/Windows",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Windows",
+                "id": "Windows"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deepin",
+                "permalink": "/fe/os/Deepin"
+              }
+            },
+            {
+              "unversionedId": "vue/vnodeanddiff",
+              "id": "vue/vnodeanddiff",
+              "title": "Vnode && Diff",
+              "description": "updateChildren && patchVnode",
+              "source": "@site/fe/1-vue/1-Vnode&diff.md",
+              "sourceDirName": "1-vue",
+              "slug": "/vue/vnodeanddiff",
+              "permalink": "/fe/vue/vnodeanddiff",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Vnode && Diff",
+                "id": "vnodeanddiff"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vue",
+                "permalink": "/fe/vue/Vue"
+              },
+              "next": {
+                "title": "Vue3",
+                "permalink": "/fe/vue/Vue3"
+              }
+            },
+            {
+              "unversionedId": "vue/Vue",
+              "id": "vue/Vue",
+              "title": "Vue",
+              "description": "核心渲染",
+              "source": "@site/fe/1-vue/0-vue.md",
+              "sourceDirName": "1-vue",
+              "slug": "/vue/Vue",
+              "permalink": "/fe/vue/Vue",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "title": "Vue",
+                "id": "Vue"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "index",
+                "permalink": "/fe/"
+              },
+              "next": {
+                "title": "Vnode && Diff",
+                "permalink": "/fe/vue/vnodeanddiff"
+              }
+            },
+            {
+              "unversionedId": "vue/Vue3",
+              "id": "vue/Vue3",
+              "title": "Vue3",
+              "description": "新特性",
+              "source": "@site/fe/1-vue/2-vue3.md",
+              "sourceDirName": "1-vue",
+              "slug": "/vue/Vue3",
+              "permalink": "/fe/vue/Vue3",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "10/14/2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Vue3",
+                "id": "Vue3"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vnode && Diff",
+                "permalink": "/fe/vue/vnodeanddiff"
+              },
+              "next": {
+                "title": "index",
+                "permalink": "/fe/os/osindex"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "vue",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "vue/Vue"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vue/vnodeanddiff"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "vue/Vue3"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "operating system",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "os/osindex"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "os/Macos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "os/Centos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "os/Ubuntu"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "os/Deepin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "os/Windows"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "index",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    },
+    "java": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/java",
+          "tagsPath": "/java/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/yanstars/Desktop/my-website/sidebarsJava.js",
+          "contentPath": "/Users/yanstars/Desktop/my-website/java",
+          "contentPathLocalized": "/Users/yanstars/Desktop/my-website/i18n/en/docusaurus-plugin-content-docs-java/current",
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Index",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/java/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/java/",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/create-a-page"
+              }
+            },
+            {
+              "unversionedId": "one/congratulations",
+              "id": "one/congratulations",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/one/congratulations.md",
+              "sourceDirName": "one",
+              "slug": "/one/congratulations",
+              "permalink": "/java/one/congratulations",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/deploy-your-site"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/two/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "one/create-a-blog-post",
+              "id": "one/create-a-blog-post",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/one/create-a-blog-post.md",
+              "sourceDirName": "one",
+              "slug": "/one/create-a-blog-post",
+              "permalink": "/java/one/create-a-blog-post",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/create-a-document"
+              },
+              "next": {
+                "title": "markdown-features",
+                "permalink": "/java/one/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "one/create-a-document",
+              "id": "one/create-a-document",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/one/create-a-document.md",
+              "sourceDirName": "one",
+              "slug": "/one/create-a-document",
+              "permalink": "/java/one/create-a-document",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/create-a-page"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "one/create-a-page",
+              "id": "one/create-a-page",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/one/create-a-page.md",
+              "sourceDirName": "one",
+              "slug": "/one/create-a-page",
+              "permalink": "/java/one/create-a-page",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Index",
+                "permalink": "/java/"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "one/deploy-your-site",
+              "id": "one/deploy-your-site",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/one/deploy-your-site.md",
+              "sourceDirName": "one",
+              "slug": "/one/deploy-your-site",
+              "permalink": "/java/one/deploy-your-site",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "markdown-features",
+                "permalink": "/java/one/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/congratulations"
+              }
+            },
+            {
+              "unversionedId": "one/markdown-features",
+              "id": "one/markdown-features",
+              "title": "markdown-features",
+              "description": "index",
+              "source": "@site/java/one/markdown-features.mdx",
+              "sourceDirName": "one",
+              "slug": "/one/markdown-features",
+              "permalink": "/java/one/markdown-features",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/create-a-blog-post"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "two/manage-docs-versions",
+              "id": "two/manage-docs-versions",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/two/manage-docs-versions.md",
+              "sourceDirName": "two",
+              "slug": "/two/manage-docs-versions",
+              "permalink": "/java/two/manage-docs-versions",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/java/one/congratulations"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/java/two/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "two/translate-your-site",
+              "id": "two/translate-your-site",
+              "title": "Congratulations!",
+              "description": "What's next?",
+              "source": "@site/java/two/translate-your-site.md",
+              "sourceDirName": "two",
+              "slug": "/two/translate-your-site",
+              "permalink": "/java/two/translate-your-site",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/java/two/manage-docs-versions"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "one",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "one/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "one/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "one/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "one/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "one/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "one/congratulations"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "two",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "two/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "two/translate-your-site"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "index",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
